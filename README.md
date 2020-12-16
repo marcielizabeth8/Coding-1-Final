@@ -1,2 +1,2 @@
 # Coding-1-Final
- These are the starter files for F2020 Coding 1
+ For my final project, I used images of myself to show more about me. I wrote a paragraph telling about myyself. 
